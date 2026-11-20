@@ -23,9 +23,7 @@ Third-year B.Tech student in Computer Science and Applied Mathematics at IIIT De
 
 <sub>Also: a RISC-V assembler and simulator, and a university ERP system.</sub>
 
-### Stack
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark-v2.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack-light-v2.svg" /><img src="assets/stack-light-v2.svg" width="100%" alt="Stack. Languages: C, Python, TypeScript, JavaScript, SQL. Web: React, Node.js, Express, Tailwind, Supabase, MySQL. ML: XGBoost, LightGBM, CNNs, local LLMs. Systems: RISC-V GNU toolchain, QEMU, Linux, Git." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark-v2.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack-light-v2.svg" /><img src="assets/stack-light-v2.svg" width="100%" alt="Languages: C, Python, TypeScript, JavaScript, SQL. Web: React, Node.js, Express, Tailwind, Supabase, MySQL. ML: XGBoost, LightGBM, CNNs, local LLMs. Systems: RISC-V GNU toolchain, QEMU, Linux, Git." /></picture>
 
 ### Contributions
 
